@@ -1,0 +1,22 @@
+{
+  "name": "NXKit",
+  "version": "0.1.0",
+  "summary": "A short description of NXKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/徐凯/NXKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "徐凯": "xukai06613@hellobike.com"
+  },
+  "source": {
+    "git": "https://github.com/徐凯/NXKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NXKit/Classes/**/*"
+}
